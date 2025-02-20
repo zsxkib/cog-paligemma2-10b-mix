@@ -1,0 +1,7 @@
+torch==2.5.1
+jax
+flax
+transformers
+Pillow
+numpy
+matplotlib
